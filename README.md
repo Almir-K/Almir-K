@@ -17,7 +17,12 @@
 - ⚡ Fun fact **I used to be a professional trash-picker🚛 for 11 years before I upgraded to programming! 🗑️💻 Turns out, I'm not just great at cleaning up trash, but I'm also pretty good at cleaning up code**
 
 <h3 align="left">Connect with me:</h3>
-<p align=https://www.linkedin.com/in/almir-k-a9226522b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almir-k" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/almir-k-a9226522b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almir-k" height="30" width="40" />
+  </a>
+</p>
+
 <a href="https://instagram.com/akzmedia92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akzmedia92" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@akzmedia92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akzmedia92" height="30" width="40" /></a>
 </p>
