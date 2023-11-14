@@ -32,7 +32,7 @@
 
 <h3 style="text-align: left;">Support:</h3>
 <p style="text-align: left;">
-  <a href="https://www.buymeacoffee.com/https://paypal.me/AkzMedia?country.x=SE&locale.x=sv_SE">
+  <a href="https://www.paypal.com/paypalme/AkzMedia">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="https://www.paypal.com/paypalme/AkzMedia" />
   </a>
 </p>
